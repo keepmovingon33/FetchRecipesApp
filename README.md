@@ -23,3 +23,7 @@ In my personal opinion, the weekest part of the project is the structure of the 
     -Unique UI is shown when either the recipeList encounters and error or if it is empty
     -Custom AsyncImage like view created that utilizes a caching system to fetch images with a progress view to show case it is loading.
     -State management system for the RecipeListView and the RecipeImageView from their respective viewmodels.
+
+# Screenshots
+Dark Mode Image Error Icon
+![DarkModeImageErrorIcon](https://github.com/user-attachments/assets/f4f7662d-8e72-4294-b298-a592d775cc38)
