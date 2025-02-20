@@ -26,4 +26,10 @@ In my personal opinion, the weekest part of the project is the structure of the 
 
 # Screenshots
 Dark Mode Image Error Icon
+
 ![DarkModeImageErrorIcon](https://github.com/user-attachments/assets/f4f7662d-8e72-4294-b298-a592d775cc38)
+
+Dark Mode Recipe List
+
+
+![DarkModeRecipeList](https://github.com/user-attachments/assets/29ff5cf9-ddfa-407a-bd2f-3af6195b17a2)
