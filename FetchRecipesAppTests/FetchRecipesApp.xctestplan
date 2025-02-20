@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "033F33D7-D538-44D3-B6AC-7AB6F70925EE",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FetchRecipesApp.xcodeproj",
+      "identifier" : "3340AA752D66A0A2007899FB",
+      "name" : "FetchRecipesApp"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FetchRecipesApp.xcodeproj",
+        "identifier" : "3340AA852D66A0A5007899FB",
+        "name" : "FetchRecipesAppTests"
+      }
+    }
+  ],
+  "version" : 1
+}
